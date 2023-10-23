@@ -59,7 +59,7 @@
                     <i class="fa fa-phone"></i>
 
                     <span>
-                        <h5>+91 8873788490</h5>
+                        <h5>+91 8873########0</h5>
                         <p>Monday to Saturday, 10AM to 5PM</p>
                     </span>
                 </div>
